@@ -1,0 +1,28 @@
+# NetBeans
+/nbproject/private/
+/nbproject/project.properties
+/nbproject/project.xml
+/build/
+/dist/
+
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Archivos de backup
+*~
+*.bak
